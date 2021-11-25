@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="github_toolbar">#24292F</color>
+    <color name="github_toolbar_night">#161B22</color>
+    <color name="github_background_night">#0D1117</color>
+    <color name="github_primary_text_night">#C9D1D9</color>
+    <color name="github_secondary_text_night">#8B949E</color>
+    <color name="github_mark_states">#F78166</color>
+    <color name="github_footer">#F6F8FA</color>
+    <color name="github_icon">#D1D5DA</color>
+    <color name="github_blue">#0969DA</color>
+
+<!--Warna Referensi dari https://asphalt.gojek.io/foundations/Colors/    -->
+    <color name="red_60_gojek">#CF212A</color>      <!--All error text, negative states-->
+    <color name="black_100_gojek">#25282B</color>   <!--Title texts, icons, captions, input fields & everywhere else where black is required-->
+    <color name="black_80_gojek">#52575C</color>    <!--Body text & component description-->
+    <color name="black_60_gojek">#A0A4A8</color>    <!--Inactive states of icons & other components-->
+    <color name="black_40_gojek">#CACCCF</color>    <!--Default texts in text field, disabled states of buttons, icons & other components-->
+    <color name="black_10_gojek">#E8E8E8</color>
+
+    <color name="light_1">#fefefe</color>
+    <color name="light_2">#27292b</color>
+    <color name="light_3">#525458</color>
+    <color name="light_4">#a9b0b7</color>
+    <color name="light_5">#4d8ac5</color>
+    <color name="light_6">#7d737a</color>
+    <color name="light_7">#7b828c</color>
+
+</resources>
